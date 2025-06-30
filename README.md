@@ -1,3 +1,4 @@
+
 # Task 5: Decision Trees and Random Forests
 
 This task focuses on building and evaluating tree-based models — **Decision Trees** and **Random Forests** — using the **Heart Disease Dataset**. It is part of my AI/ML internship at Elevate Labs.
@@ -69,11 +70,4 @@ TASK 5/
 - `graphviz` was downloaded from the official site and manually added to system PATH to enable visualization.
 - Both scripts run independently.
 - Feature importance from Random Forest helps understand model decisions.
-
----
-
- Conclusion
-
-This task provided hands-on experience with decision tree logic and ensemble learning. It also strengthened my skills in data preprocessing, visualization, and model evaluation.
-
 
